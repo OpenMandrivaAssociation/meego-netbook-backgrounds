@@ -4,7 +4,7 @@ Version: 0.6
 Release: %mkrel 1
 License: LGPLv2
 Group: Applications/Multimedia
-Source0: netbook-backgrounds-%{version}.tar.bz2
+Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/netbook-backgrounds-%{version}.tar.bz2
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
